@@ -9,7 +9,7 @@ import Benefits from './components/Benefits';
 import Collaboration from './components/Collaboration';
 import Services from './components/Services';
 import Pricing from './components/Pricing';
-import Roadmap from './components/RoadMap';
+import RoadMap from './components/RoadMap';
 import Footer from './components/Footer';
 
 const App=()=> {
@@ -27,7 +27,7 @@ const App=()=> {
       <Collaboration/>
       <Services/>
       <Pricing/>
-      <Roadmap/>
+      <RoadMap/>
       <Footer/>
 
     </div>
